@@ -10,7 +10,7 @@ It also includes experimental evaluation of different heuristic strategies, such
 - Random literal selection
 - Most-frequent literal selection
 
-## 📂 Repository Structure
+##  Repository Structure
 
 - `resolution.py`: Python script implementing the Resolution algorithm.
 - `dp.py`: Python script implementing the Davis–Putnam (DP) algorithm.
@@ -20,14 +20,14 @@ It also includes experimental evaluation of different heuristic strategies, such
 - `cnf/`: Directory containing benchmark CNF files.
 - `results_summary.csv`: Automatically generated file summarizing experimental results.
 
-## ⚙️ Requirements
+##  Requirements
 
 - Python 3.x
 - Standard Python libraries (no external dependencies required)
 
-## 🚀 How to Run
+## How to Run
 
-1. **Run an individual solver:**
+1. ** Run an individual solver:**
    ```bash
    python resolution.py cnf/example.cnf
    python dp.py cnf/example.cnf
