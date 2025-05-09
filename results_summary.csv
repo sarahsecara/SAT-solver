@@ -1,0 +1,7 @@
+CNF File,Solver,Result,Time (seconds)
+ex1.cnf,DP,SATISFIABLE,0.0662
+ex1.cnf,DPLL,SATISFIABLE,0.0674
+ex1.cnf,Resolution,SATISFIABLE,0.0578
+ex2.cnf,DP,UNSATISFIABLE,0.0559
+ex2.cnf,DPLL,UNSATISFIABLE,0.0660
+ex2.cnf,Resolution,UNSATISFIABLE,0.0550
